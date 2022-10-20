@@ -1,5 +1,3 @@
-
-
 """
 Below is a dictionary of the top 2 laptops of 2020 as reviewed by Tech Crunch.
 
